@@ -1,7 +1,7 @@
 Resumen del proyecto NaturApp
 
 1. Análisis inicial del proyecto
-- Se revisó la estructura general de la app y se identificaron las principales carpetas del frontend, backend y servicios.
+- Se revisó la estructura general de la app y se identificaron las principales carpeta.
 - Se documentaron las rutas principales de la API y su funcionamiento.
 
 2. Configuración del backend
@@ -28,6 +28,3 @@ Resumen del proyecto NaturApp
 - Se probaron las rutas de la API.
 - Se verificó el flujo de compra y el funcionamiento del carrito.
 - Se comprobó el comportamiento de la app en navegador web.
-
-Conclusión
-- El proyecto quedó estructurado como una tienda de productos naturales con frontend moderno, backend funcional y funcionalidades básicas de e-commerce.
