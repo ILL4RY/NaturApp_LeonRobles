@@ -1,0 +1,33 @@
+Resumen del proyecto NaturApp
+
+1. Análisis inicial del proyecto
+- Se revisó la estructura general de la app y se identificaron las principales carpetas del frontend, backend y servicios.
+- Se documentaron las rutas principales de la API y su funcionamiento.
+
+2. Configuración del backend
+- Se configuró el servidor con Express y se conectó a MongoDB.
+- Se habilitó CORS para permitir las peticiones desde la app.
+- Se montaron las rutas de productos, categorías, usuarios, pedidos y carrito.
+
+3. Desarrollo de la aplicación móvil/web
+- Se implementó la navegación principal con Expo Router.
+- Se creó la pantalla de inicio para mostrar productos.
+- Se añadió la pantalla de detalle de producto.
+- Se desarrolló el carrito de compras con opciones de agregar, actualizar y eliminar productos.
+
+4. Mejoras de experiencia de usuario
+- Se añadieron notificaciones tipo toast al agregar productos al carrito.
+- Se corrigió la visualización de categorías en los detalles del producto.
+- Se mejoró la carga y visualización de productos.
+
+5. Ampliación del catálogo
+- Se añadieron más productos al catálogo para tener una experiencia más completa.
+- Se ajustaron las imágenes y se trabajó en su correcta visualización.
+
+6. Pruebas y validación
+- Se probaron las rutas de la API.
+- Se verificó el flujo de compra y el funcionamiento del carrito.
+- Se comprobó el comportamiento de la app en navegador web.
+
+Conclusión
+- El proyecto quedó estructurado como una tienda de productos naturales con frontend moderno, backend funcional y funcionalidades básicas de e-commerce.
